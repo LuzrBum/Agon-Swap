@@ -7,10 +7,7 @@ Simple text puzzle game from BBC Micro adjusted for Agon Light (TM)
 * Copy both files to SD card, insert in Agon Light, powerup.  
 * In BBC Basic, type:
 
-        LOAD "SWAP"
-        RUN
-
-
+        CHAIN "SWAP"
 
 #### How it was made:  
 * Original source https://www.bbcmicro.co.uk/explore.php?id=3379 - "explore disk"
@@ -25,4 +22,4 @@ Simple text puzzle game from BBC Micro adjusted for Agon Light (TM)
 
 https://www.youtube.com/watch?v=HMaCa89KopY
 
-
+(CHAIN rather than LOAD+RUN tip thanks to my YouTube subscriber Richard Hallas https://www.youtube.com/channel/UCHW5dD5QYDTtOOmGdIOPRoA)
